@@ -1,4 +1,4 @@
-dbt-core==1.8.5
+dbt-core==1.9.2
 dbt-databricks==v1.8.5
 databricks-sdk==0.17.0
 dbt-snowflake==1.8.3
